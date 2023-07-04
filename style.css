@@ -24,6 +24,10 @@
     display: -ms-inline-grid;
 } 
 
+.github {
+    text-align: center;
+}
+
 
 .List {
     list-style-type: none;  
@@ -33,5 +37,5 @@ font-size: 20px;
 
 
 a:hover {
-    color: darkgoldenrod;
+    color: black;
 }
