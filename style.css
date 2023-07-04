@@ -14,6 +14,17 @@
     text-align: right;
 }
 
+.Recipe-Links {
+    background-color: lightgoldenrodyellow;
+    color: red;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: -ms-inline-grid;
+} 
+
+
 .List {
     list-style-type: none;  
 font-weight: bold;  
